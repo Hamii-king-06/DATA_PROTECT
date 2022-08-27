@@ -50,7 +50,7 @@ elif bit == "32bit":
 
  
 
-        from king import main
+        from King import main
       
 
  
